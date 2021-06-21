@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Jake B. Parane</Authors>
+    <Description>A class library containing core abstractions for a data client app.</Description>
+    <Copyright>© 2021</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageTags>dataclient data</PackageTags>
+  </PropertyGroup>
+
+</Project>
